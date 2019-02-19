@@ -1,0 +1,14 @@
+# Docs: https://github.com/talal/bonclay/blob/master/doc/guide.md
+backup:
+  overwrite: false
+
+restore:
+  overwrite: false
+
+sync:
+  clean: true
+  overwrite: true
+
+spec:
+  ~/.editorconfig: editor/.editorconfig
+  ~/.zshrc: shell/.zshrc
