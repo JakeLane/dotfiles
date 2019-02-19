@@ -97,3 +97,9 @@ source $ZSH/oh-my-zsh.sh
 
 # Go path
 export GOPATH=$HOME/go
+
+# Vim -> Vi
+if hash vim; then
+	alias vi=vim
+fi
+

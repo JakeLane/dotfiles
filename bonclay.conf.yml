@@ -12,3 +12,6 @@ sync:
 spec:
   ~/.editorconfig: editor/.editorconfig
   ~/.zshrc: shell/.zshrc
+  ~/.vim/autoload/plug.vim: vim/plug.vim
+  ~/.vimrc: vim/.vimrc
+
