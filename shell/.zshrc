@@ -14,3 +14,6 @@ fi
 
 # Source machine-specific dotfiles
 source ~/.profile-machine-*
+
+# Source dotfiles
+source ~/.cal

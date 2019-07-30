@@ -14,4 +14,4 @@ spec:
   ~/.zshrc: shell/.zshrc
   ~/.vim/autoload/plug.vim: vim/plug.vim
   ~/.vimrc: vim/.vimrc
-
+  ~/.cal: .cal
