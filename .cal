@@ -1,2 +1,2 @@
-alias cal-chopper-prep='gcalcli add --noprompt --title "Prepare for 🚁" --when "9:00 tomorrow" --duration 15 --calendar "jlane2@atlassian.com"'
+alias cal-chopper='gcalcli add --noprompt --title "Prepare for 🚁" --when "9:00 tomorrow" --duration 15 --calendar "jlane2@atlassian.com"  --reminder "10m"; gcalcli add --noprompt --title "🚁" --when "10:30 tomorrow" --duration 15 --calendar "jlane2@atlassian.com" --reminder "10m"'
 
